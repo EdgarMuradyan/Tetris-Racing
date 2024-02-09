@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Controller.qml</file>
+        <file>F1_car.png</file>
+        <file>redwhite.jpg</file>
+        <file>roadimage.jpg</file>
+        <file>F1_car.ico</file>
+        <file>Road.qml</file>
+    </qresource>
+</RCC>
